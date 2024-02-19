@@ -1,7 +1,3 @@
-node index.js --firstFile=/home/shefki/workspace/dcm4chee-arc-lang/src/main/webapp/messages.json --secondFile=/home/shefki/workspace/dcm4chee-arc-lang/src/main/webapp/zh.json
-/home/shefki/workspace/language-merger/LICENSE.txt
-
-
 # json-key-comparer
 Tool to compare only the keys between two ( language ) JSON-files
 
