@@ -1,5 +1,6 @@
-# json-key-comparer
-Tool to compare only the keys between two ( language ) JSON-files
+
+# json-language-merger
+Tool to compare only the keys between two (language) JSON-files
 
 (Implemented while working for [j4care.com](https://www.j4care.com/) on [dcm4chee-arc-light](https://github.com/dcm4che/dcm4chee-arc-light) UI2 project).
 
